@@ -1,3 +1,4 @@
+poco c31
 ---
 manufacturer: 
     - xiaomi
