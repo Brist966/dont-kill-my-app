@@ -1,4 +1,5 @@
----
+---poco c31 
+free fire app 
 manufacturer: 
     - xiaomi
 
